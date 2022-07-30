@@ -220,6 +220,12 @@
   padding-left: 30rem;
   padding-right: 30rem;
 }
+
+.px-160 {
+  padding-left: 40rem;
+  padding-right: 40rem;
+}
+
 .pt-2 {
   padding-top: 0.5rem;
 }
