@@ -216,6 +216,10 @@
   padding-right: 20rem;
 }
 
+.px-120 {
+  padding-left: 30rem;
+  padding-right: 30rem;
+}
 .pt-2 {
   padding-top: 0.5rem;
 }
@@ -286,4 +290,12 @@
 
 .fixed {
   position: fixed;
+}
+
+.z-10 {
+  z-index: 10;
+}
+
+.z-0 {
+  z-index: 0;
 }
